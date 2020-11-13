@@ -9,6 +9,9 @@ public class SingleDimensionalArray {
 
         Scanner scan = new Scanner(System.in);
 
+        System.out.println("How many number would you like to enter?");
+        int length = scan.nextInt();
+
         int[] scores = new int[1];
 
         scores[0] = 10;
