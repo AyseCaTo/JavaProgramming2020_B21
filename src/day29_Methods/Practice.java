@@ -5,6 +5,7 @@ public class Practice {
     public static  void printHellonTimes(int n){
         for (int i = 1; i<=n; i++){
             System.out.println("hello");
+            // created parameter
         }
     }
 
