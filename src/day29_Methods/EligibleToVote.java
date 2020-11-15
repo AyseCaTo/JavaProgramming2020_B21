@@ -4,6 +4,10 @@ public class EligibleToVote {
 
     public static void main(String[] args) {
 
+        eligible(33, "Turkey");
+        eligible(17,"USA");
+        eligible(45,"USA");
+
     }
 
     public static void eligible(int age, String citizenship){
